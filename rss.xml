@@ -4,11 +4,18 @@
         <description><![CDATA[autonhoito.com]]></description>
         <link>https://thegrid.ai/autonhoito-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Feb 2016 22:27:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Feb 2016 22:27:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/autonhoito-com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>undefined</p>]]></description>
+            <description><![CDATA[<p>Käsittelypisteet</p>]]></description>
+            <link>https://thegrid.ai/autonhoito-com/358d4f3a-4f1d-46ac-b29f-59747d314c3e/index.html</link>
+            <guid isPermaLink="false">358d4f3a-4f1d-46ac-b29f-59747d314c3e</guid>
+            <pubDate>Thu, 04 Feb 2016 22:27:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Tuotteet</p>]]></description>
             <link>https://thegrid.ai/autonhoito-com/ddacc5b1-5950-4316-9166-bd4784d6488e/index.html</link>
             <guid isPermaLink="false">ddacc5b1-5950-4316-9166-bd4784d6488e</guid>
             <pubDate>Thu, 04 Feb 2016 22:27:35 GMT</pubDate>
