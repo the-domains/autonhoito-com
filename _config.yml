@@ -1,0 +1,28 @@
+name: autonhoito.com
+favicon: null
+layout_spectrum: 0.8150305210147053
+typography_spectrum: 0.988532264251262
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5517104845494032
+  lightness: 0.43083308753557503
+  saturation: 0.7453068213071674
+  rhythmicContrast: 0.9923844053409994
+purpose: []
